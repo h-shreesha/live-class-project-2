@@ -7,3 +7,7 @@ By Shreesha
 # What did I learn in this project
 
 - I got to learn about the positioning of images 
+- Got to learn about the ways of adding gradients to the background
+- got to learn how to design buttons 
+
+## Time taken to complete project is 3 hours
