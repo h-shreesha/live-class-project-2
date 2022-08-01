@@ -2,6 +2,10 @@
 
 By Shreesha
 
+Here's the Live Deployed Website of ![Project02Badge](https://img.shields.io/badge/Project-02-green)
+
+## Project 02  [DEPLOYED LINK](https://project02-restraunt-page.netlify.app/)
+
 ![websiteSnap](./readmeImages/WebsiteSnap.png)
 
 # What did I learn in this project
